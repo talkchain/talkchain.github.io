@@ -553,7 +553,7 @@ img::-moz-selection {
   /* Move into place */
   transform: translateY(0);
 }
-@media (max-width: 768px) {
+@media (max-width: 991px) {
     .talk-title {
         font-size: 20px;
     }
